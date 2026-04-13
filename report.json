@@ -1,0 +1,120 @@
+{
+  "summary": {
+    "analyses": 15,
+    "alerts": 0
+  },
+  "data": [
+    {
+      "time": "2025-12-29 21:48:22.932584",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:48:29.842474",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:48:35.885558",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:48:41.861485",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:48:47.876014",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:48:53.871825",
+      "risk": "NORMAL",
+      "score": 0,
+      "issues": []
+    },
+    {
+      "time": "2025-12-29 21:48:58.793533",
+      "risk": "NORMAL",
+      "score": 0,
+      "issues": []
+    },
+    {
+      "time": "2025-12-29 21:49:02.128399",
+      "risk": "NORMAL",
+      "score": 0,
+      "issues": []
+    },
+    {
+      "time": "2025-12-29 21:49:05.702356",
+      "risk": "NORMAL",
+      "score": 0,
+      "issues": []
+    },
+    {
+      "time": "2025-12-29 21:49:09.046455",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:49:12.377793",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:49:15.698003",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:49:19.042311",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:49:22.370703",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    },
+    {
+      "time": "2025-12-29 21:49:27.049816",
+      "risk": "LOW",
+      "score": 20,
+      "issues": [
+        "Stress"
+      ]
+    }
+  ]
+}
