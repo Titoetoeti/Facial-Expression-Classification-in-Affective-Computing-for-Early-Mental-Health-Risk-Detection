@@ -20,8 +20,8 @@ This project focuses on leveraging Affective Computing and Machine Learning to c
 - Nguyễn Hữu Quốc Công
 
 Instructor: ThS. Nguyễn Tấn Công
-
 Institution: University of Social Sciences and Humanities - VNU HCM
+
 --- 
 # Ứng Dụng Phân Lớp Biểu Cảm Khuôn Mặt Nhằm Phát Hiện Sớm Rủi Ro Sức Khỏe Tâm Thần
 📌 Tổng quan dự án
